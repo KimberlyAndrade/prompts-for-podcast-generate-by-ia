@@ -38,15 +38,14 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
+- [Gemini](https://gemini.google.com/app?hl=pt-BR)
 - [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Audio gerado pelo Capcut
+- Gemini 2.5 Pro Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
@@ -94,6 +93,37 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 <br/><br/>
 <p>
 
+## 👨‍💻 Aluna
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/82122484?u=57f6311820717f268a23b6c0cb4020b09c9dbac5&amp;v=4"
+    />
+    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    &nbsp&nbsp&nbsp
+    <a 
+        href="https://github.com/KimberlyAndrade">
+        GitHub
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="https://www.linkedin.com/in/kimberlyands/">
+        LinkedIn
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="https://www.instagram.com/kimmy_andrade/">
+        Instagram
+    </a>
+    &nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
+
 ---
 
 ⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+Forked and Edited by [K. Silva](https://github.com/KimberlyAndrade)
