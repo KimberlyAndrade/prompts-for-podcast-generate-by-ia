@@ -3,9 +3,9 @@
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Você é um roteirista de podcast, e vamos criar um podcast de literatura, focado em literatura mundial e eu gostaria de uma ajuda sua para criar 5 sugestões
+TÍTULO
+
+Você é um roteirista de podcast, e vamos criar um podcast de literatura, focado em literatura mundial e eu gostaria de uma ajuda sua para criar 5 sugestões
 de nomes criativos para um podcast de literatura feito por uma apaixonada por livros e viagens, que irá destacar o livro mais importante de cada país.
 
 O podcast vai falar dar recomendações de livros importantes em cada país, dando ênfase à produção literária local, abordando também a vida do autor ou autora.
@@ -20,8 +20,10 @@ O podcast vai falar dar recomendações de livros importantes em cada país, dan
 
 - Não quero que o título contenha palavras em inglês
 - Não utilize a palavra Literatura no nome nem qualquer variação dela
-                                                        |
-| roteiro | Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de literatura, focado em literatura mundial cujo o nome é "Carimbos e Capítulos" e tem foco em livros e viagens, que irá destacar o livro mais importante de cada país,  com o público alvo de apaixonados por literatura e viagens.
+
+ROTEIRO
+
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de literatura, focado em literatura mundial cujo o nome é "Carimbos e Capítulos" e tem foco em livros e viagens, que irá destacar o livro mais importante de cada país,  com o público alvo de apaixonados por literatura e viagens.
 
 o formato do roteiro deve ser
 [INTRODUÇÃO]
