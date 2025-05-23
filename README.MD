@@ -102,7 +102,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       width=80 
       src="https://avatars.githubusercontent.com/u/82122484?u=57f6311820717f268a23b6c0cb4020b09c9dbac5&amp;v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspKimberly Andrade da Silva<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/KimberlyAndrade">
